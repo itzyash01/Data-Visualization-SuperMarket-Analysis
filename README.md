@@ -6,6 +6,8 @@ On varification through other charts as well, finally I was able to draw an insi
 
 There are interactive dashboards, story and various sheets containing different plots that help in the analysis and interpretation of data.
 
+Colors: Green indicates the profit, darker the green more is the profit and vice versa. Similarly, red incdicates loss, lighter the red less is the loss and vice versa.
+
 ![Screenshot (1204)](https://user-images.githubusercontent.com/91739600/155337672-78a711da-5491-4de7-9309-6698654cee3f.png)
 ![Screenshot (1202)](https://user-images.githubusercontent.com/91739600/155337751-9329affa-cfb1-40ea-b30f-60535f1b82b4.png)
 ![Screenshot (1205)](https://user-images.githubusercontent.com/91739600/155337809-fdc045ad-e979-482a-b285-43da65594983.png)
